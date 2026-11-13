@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#b6c8c0"/>
+<path d="M0 380L150 250L300 330L460 185L640 325L800 220V600H0Z" fill="#789388"/>
+<path d="M0 450Q200 410 400 470T800 435V600H0Z" fill="#4f7068" opacity=".65"/>
+<path d="M50 65H750M50 530H750" stroke="#e8eee8" stroke-width="2"/>
+<text x="50" y="110" font-family="monospace" font-size="22" fill="#203d32">FIELD PHOTOGRAPH 01</text>
+<text x="50" y="500" font-family="monospace" font-size="18" fill="#edf3ed">REPLACE WITH YOUR OWN IMAGE</text>
+</svg>
